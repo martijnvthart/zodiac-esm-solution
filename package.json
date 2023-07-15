@@ -1,0 +1,12 @@
+{
+  "name": "zodiac-esm-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --quiet"
+  },
+  "author": "Martijn van 't Hart",
+  "license": "ISC"
+}
